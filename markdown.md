@@ -28,10 +28,16 @@ utiliza _ _
 
 [nome do link](endereço do link)
 
-**Listas**
+**Listas não ordenadas**
 
 Utiliza o *
 
 * Teste01
 * Teste02
 * Teste03
+
+**Listas ordenadas**
+
+1. teste01
+2. teste02
+3. teste03  
