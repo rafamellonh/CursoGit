@@ -47,3 +47,12 @@ Utiliza o *
 > Blockquote
 >
 > teste
+
+**Exemplo de uso de script**
+
+```js
+function teste(nome) {
+    return 'Bem vindo : ' + name;
+}
+
+```
