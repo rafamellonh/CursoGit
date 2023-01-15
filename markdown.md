@@ -60,3 +60,8 @@ function teste(nome) {
 }
 
 ```
+
+
+- [X] Marcado como ok.
+- [ ] A fazer
+- [ ] Ainda nao
