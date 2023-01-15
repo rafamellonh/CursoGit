@@ -15,3 +15,7 @@ utiliza o ######
 **negrito** 
 
 utiliza **  **
+
+_Italico_
+
+utiliza _ _
